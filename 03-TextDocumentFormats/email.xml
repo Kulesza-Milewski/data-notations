@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mail>
+    <mails>
+        <sender>
+            <sendername>dawid@awd</sendername>
+            <subject>Test</subject>
+            <message>jest i będzie</message>
+        </sender>
+        <recipient></recipient>
+    </mails>
+</mail>
