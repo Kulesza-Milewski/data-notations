@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <transport type="automobile" ownership="private">
+        <name>Sedan Car</name>
+        <powerSource>Gasoline</powerSource>
+        <capacity>5 passengers</capacity>
+        <primaryUse>Commuting and family trips</primaryUse>
+    </transport>
+    <transport type="human-powered" ownership="private">
+        <name>Road Bicycle</name>
+        <powerSource>Human</powerSource>
+        <capacity>1 person</capacity>
+        <primaryUse>Exercise and short-distance travel</primaryUse>
+    </transport>
+    <transport type="public" ownership="municipal">
+        <name>City Bus</name>
+        <powerSource>Diesel</powerSource>
+        <capacity>50 passengers</capacity>
+        <primaryUse>Public transit within the city</primaryUse>
+    </transport>
+</transports>

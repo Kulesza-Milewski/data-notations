@@ -23,4 +23,15 @@
             <perimeter>4 * side</perimeter>
         </formulas>
     </figure>
+    <figure>
+        <name>Sphere</name>
+        <type>3D</type>
+        <properties>
+            <property>Radius</property>
+        </properties>
+        <formulas>
+            <volume>(4/3) * π * radius^3</volume>
+            <surface_area>4 * π * radius^2</surface_area>
+        </formulas>
+    </figure>
 </geometricFigures>

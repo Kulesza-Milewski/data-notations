@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mail>
-    <mails>
-        <sender>
-            <sendername>dawid@awd</sendername>
-            <subject>Test</subject>
-            <message>jest i będzie</message>
-        </sender>
-        <recipient></recipient>
-    </mails>
-</mail>
+<email>
+    <sender>jane.doe@example.com</sender>
+    <recipient>john.smith@example.com</recipient>
+    <subject>Meeting Reminder</subject>
+    <body>
+        Hi John,
+        This is a friendly reminder about our meeting scheduled for tomorrow, October 20th, at 10:00 AM in Conference Room 3.
+        Please come prepared to discuss the quarterly report.
+        Best regards,
+        Jane Doe
+    </body>
+</email>
