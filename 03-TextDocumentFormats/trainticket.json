@@ -1,0 +1,22 @@
+{
+    "ticket_id": "TRN-987654321",
+    "passenger_name": "Anna Kowalska",
+    "route": {
+        "departure_city": "Kraków",
+        "arrival_city": "Gdańsk"
+    },
+    "date_time": {
+        "departure_date": "2025-11-20",
+        "departure_time": "08:30"
+    },
+    "seat_info": {
+        "coach_number": "C4",
+        "seat_number": "21A",
+        "class": "First Class"
+    },
+    "price_details": {
+        "base_fare": 189.50,
+        "currency": "PLN",
+        "is_refundable": true
+    }
+}

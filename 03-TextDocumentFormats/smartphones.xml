@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="realme" model="GT 5G" releaseYear="2020">
+        <specs>
+            <screenSize unit="inch">6,43</screenSize>
+            <batteryCapacity unit="mAh">4500</batteryCapacity>
+            <storage unit="GB">256</storage>
+            <camera unit="MP">16</camera>
+        </specs>
+        <price currency="USD">400</price>
+    </smartphone>
 </smartphones>
